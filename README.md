@@ -1,0 +1,1 @@
+This Palindrome Checker is a web application that determines if a given text is a palindrome. It checks if the text reads the same forwards and backwards, ignoring spaces, punctuation, and capitalization.
